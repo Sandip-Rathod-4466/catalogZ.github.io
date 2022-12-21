@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    color: #3399CC !important;
+    margin: 0;
+}
+.navbar-brand i{
+    font-size: 1.5rem;
+}
+
+.nav-item{
+    margin: 0 15px;
+}
+
+.nav-item .nav-link{
+    font-size: large;
+    color: gray ;
+    padding: 8px;
+}
+
+#banner{
+    background: url(../img/hero.jpg) no-repeat center center/cover;
+}
+#banner form{
+    padding: 70px;
+}
+
+main h2{
+    color: #009999;
+    margin: 0;
+}
+#page{
+    color: #009999;
+}
+#page form input{
+    color: #009999 !important;
+}
+.items{
+    margin-top: 5%;
+}
+.items img{
+    width: 100%;
+}
+#pagination{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    margin: 50px 0;
+}
+
+.pagination{
+margin: 0 5%;
+}
+
+#pagination .btn{
+    background-color: #009999;
+    color: white;
+}
+
+#footer{
+    background-color: #f1f1f1;
+}
+.footer_info{
+    padding: 50px 0;
+    text-align: justify;
+}
+.footer_info h3{
+    color: #009999;
+}
+footer{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 5px 0;
+}
+hr{
+    height: 3px;
+    margin: 0;
+    padding: 0;
+    
+}
+footer h6{
+    margin: 0;
+}
+
+
+#blank{
+    padding: 50px 0;
+}
+
+#about_page{
+    padding-top: 20px;
+    align-items: center;
+}
+#about_title{
+    margin-top: 50px;
+}
+
+#about_page p{
+    margin: 5% 0;
+}
+.about_info_footer{
+    margin-top: 70px;
+}
+.about_info_footer h2{
+    color: #009999;
+
+}
+.about_info_footer p{
+    margin-top: 20px;
+
+}
+
+.icon{
+    margin: 50px 0;
+    text-align: center;
+    color: #009999;
+    border: 1px solid #009999;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15% 0;
+}
+
+#divbtn{
+    padding: 50px 0;
+    color: #009999;
+    text-align: center;
+}
+#divbtn a{
+    font-size: 1.2rem;
+    background-color: #009999;
+    border: #009999;
+}
+
+#video{
+    margin: 10px 0 !important;
+    width: 100%;
+}
+
+#contact{
+    align-items: center;
+}
+
+#row1{
+    align-items: center;
+}
+.form input{
+    margin: 10px 0;
+}
+.form textarea{
+    margin-top: 10px;
+}
+.contact_info{
+    padding: 10% 0;
+}
+.form button{
+    margin-top: 10px;
+    padding: 10px 20px ;
+    background-color: #009999;
+    border: #009999;
+}
+.contact_info h2{
+    margin-bottom: 20px;
+    color: #009999;
+}
+
+.testimonials{
+    padding: 15% 0;
+}
+.testimonials h3{
+    color: #009999;
+    margin: 10px 0;
+    margin-left: 10px;
+}
+.testimonials h4{
+    color: #CC6699;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.testimonials p{
+    color: #ad8e8e;
+    margin-left: 10px;
+}
